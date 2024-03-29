@@ -1,4 +1,4 @@
-**Readme - Event Contract and Frontend**
+
 
 This repository contains a Solidity smart contract for event management and a React frontend to interact with the contract.
 
